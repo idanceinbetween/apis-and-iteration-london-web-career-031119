@@ -29,7 +29,7 @@ def find_films(character)
   if target == nil
     return "Please enter correct character name."
   else
-  films_of_character = target["films"]#an array of movies URLs
+    films_of_character = target["films"]#an array of movies URLs
   end
 end
 
